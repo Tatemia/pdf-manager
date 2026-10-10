@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+build-venv/
+build/
+dist/
+*:Zone.Identifier
+~$*
+.pytest_cache/
